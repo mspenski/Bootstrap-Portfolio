@@ -88,3 +88,9 @@ h1{
 .card-header{
     background: white;
 }
+/* Submit button on contact page */
+.btn-primary{
+    Background: teal;
+    color: white;
+    border-color: teal;
+}
