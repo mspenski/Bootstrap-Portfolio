@@ -1,0 +1,77 @@
+/* Background image */
+body{
+    background: url(bananas.png)
+}
+.whitebox{
+    width: 100%;
+    background:#f8f9fa;
+}
+/* Name in Navbar */
+.navbar-brand{
+    margin-right: 50%;
+}
+/* my name in top left corner */
+#logo {
+    float: left;
+    width: 320px;
+    height: 90px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    background: #4aaaa5;
+  }
+#no-padding{
+    padding:0;
+}
+.main-section {
+    float: left;
+    width: 100%;
+    max-width: 960px;
+    padding: 30px;
+    margin: 0 0 40px;
+    background: #ffffff;
+    border: 1px solid #dddddd;
+}
+/* image for index page */
+.auth-image {
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+}
+/* Footer for all pages */
+footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #ffffff;
+    color: #cccccc;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    height: 50px;
+    margin-top: 100px;
+  }
+/* headers inside of cards */
+h1{
+    color: teal;
+}
+
+
+/* card for about and portfolio pages */
+.card{
+    margin-top: 40px;
+}
+/* Portfoio page */
+.portfolio-images{
+    width: 100%;
+}
+
+.portfolio-rows{
+    margin-top: 15px;
+}
