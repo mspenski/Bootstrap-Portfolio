@@ -1,5 +1,6 @@
 /* Background image */
 body{
+    
     background: url(bananas.png)
 }
 .whitebox{
@@ -62,6 +63,15 @@ h1{
     color: teal;
 }
 
+.portfolio-image-text{
+    position: relative;
+    background: teal;
+    bottom: 85px;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
 
 /* card for about and portfolio pages */
 .card{
@@ -74,4 +84,7 @@ h1{
 
 .portfolio-rows{
     margin-top: 15px;
+}
+.card-header{
+    background: white;
 }
