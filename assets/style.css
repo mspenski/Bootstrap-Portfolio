@@ -80,6 +80,7 @@ h1{
 /* Portfoio page */
 .portfolio-images{
     width: 100%;
+    height: 80%;
 }
 
 .portfolio-rows{
